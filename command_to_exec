@@ -1,0 +1,21 @@
+http://txdocgeneration/Reports/Pages/Report.aspx?ItemPath=%2fDocGeneration%2fReports%2fSales%2fAgent+Commission+for+PDF&ViewMode=Detail
+
+
+http://txdocgeneration/ReportServer?ItemPath=/DocGeneration/Reports/Sales/Agent+Commission+for+PDF&rs:Format=PDF
+http://txdocgeneration/ReportServer?ItemPath=/DocGeneration/Reports/Sales/Agent+Commission+for+PDF&ViewMode=Detail&rs:Format=PDF
+http://txdocgeneration/ReportServer/Pages/Report.aspx?ItemPath=%2fDocGeneration%2fReports%2fSales%2fAgent+Commission+for+PDF&ViewMode=Detail&rs:Format=PDF
+
+with parameter:
+
+http://txdocgeneration/ReportServer/Pages/Report.aspx?ItemPath=%2fDocGeneration%2fReports%2fSales%2fAgent+Commission+for+PDF&ViewMode=Detail&rs:Format=PDF&AgentName=Electricity+Club&StartDate=05/01/2020&EndDate=05/30/2020&CompanyID=1&ReportType=Regular
+
+
+http://txdocgeneration/ReportServer/Pages/Report.aspx?ItemPath=%2fDocGeneration%2fReports%2fSales%2fAgent+Commission+for+PDF&ViewMode=Detail&rs:Format=PDF&AgentName=Electricity+Club&StartDate=05/01/2020&EndDate=05/30/2020&CompanyID=1&ReportType=Regular
+
+http://txdocgeneration/ReportServer/DocGeneration%2fReports%2fSales%2fAgent+Commission+for+PDF?&ViewMode=Detail&rs:Format=PDF&AgentName=Electricity+Club&StartDate=05/01/2020&EndDate=05/30/2020&CompanyID=1&ReportType=Regular
+http://txdocgeneration/ReportServer/DocGeneration/Reports/Sales/Agent+Commission+for+PDF?&ViewMode=Detail&rs:Format=PDF&AgentName=Electricity+Club&StartDate=05/01/2020&EndDate=05/30/2020&CompanyID=1&ReportType=Regular
+
+
+http://txdocgeneration/ReportServer?/DocGeneration/Reports/Sales/Agent+Commission+for+PDF&ViewMode=Detail&rs:Format=PDF&AgentName=Electricity+Club&StartDate=05/01/2020&EndDate=05/30/2020&CompanyID=1&ReportType=Regular
+http://txdocgeneration/ReportServer?%2fDocGeneration%2fReports%2fSales%2fAgent+Commission+for+PDF&ViewMode=Detail&rs:Format=PDF&AgentName=Electricity+Club&StartDate=05/01/2020&EndDate=05/30/2020&CompanyID=1&ReportType=Regular
+http://txdocgeneration/ReportServer?ItemPath=%2fDocGeneration%2fReports%2fSales%2fAgent+Commission+for+PDF&ViewMode=Detail&rs:Format=PDF&AgentName=Electricity+Club&StartDate=05/01/2020&EndDate=05/30/2020&CompanyID=1&ReportType=Regular

@@ -1,0 +1,6 @@
+let's start with 
+AgentName = Electricity Club
+Start Date = 05/01/2020
+End Date = 05/30/2020
+ReportType = Regular
+ComanyID = 1
