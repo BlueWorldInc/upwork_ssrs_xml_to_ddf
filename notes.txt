@@ -1,0 +1,6 @@
+I had hard time making this work because I was using 
+Set HttpReq = CreateObject("Microsoft.XMLHTTP") // which is the first link in google for "vba download file"
+instead of 
+Set HttpReq= CreateObject("WinHttp.WinHttpRequest.5.1") // https://stackoverrun.com/fr/q/10558050
+
+Now everything work smoothly.
